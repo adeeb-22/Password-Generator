@@ -17,7 +17,7 @@ To run this application locally, you must have Node.js and npm installed on your
 1. Clone this repository onto your computer.
 2. Open a terminal window and navigate to the project directory.
 3. Run `npm install` to install the necessary dependencies.
-4. Run `npm start` to start the development server.
+4. Run `npm run dev` to start the development server.
 5. Open your web browser and go to `http://localhost:3000` to view the application.
 
 ### Usage
